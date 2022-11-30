@@ -1,0 +1,8 @@
+classe final non permette l'ereditarietà!! è finale
+
+metodo final non permette l'override
+
+this è un parametro implicito
+
+Servlet in controller
+Altri classi non Servlet in model
